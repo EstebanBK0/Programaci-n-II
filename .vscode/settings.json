@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "boletosfunciones": "cpp",
+        "ostream": "cpp"
+    }
+}
